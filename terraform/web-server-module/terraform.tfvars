@@ -1,4 +1,4 @@
-aws_region     = "eu-centra-1"
+aws_region     = "eu-central-1"
 instance_type  = "t2.micro"
 instance_count = "1"
 vpc_name       = "my-vpc"
